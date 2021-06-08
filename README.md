@@ -1,0 +1,2 @@
+# SafeMoonKiller
+SafeMoonKiller contract
